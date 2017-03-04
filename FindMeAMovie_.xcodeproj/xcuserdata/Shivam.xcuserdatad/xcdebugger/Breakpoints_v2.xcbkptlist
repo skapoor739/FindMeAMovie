@@ -1,0 +1,655 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FindMeAMovie_/HomeController.swift"
+            timestampString = "510349698.331429"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "182"
+            endingLineNumber = "182"
+            landmarkName = "searchBarSearchButtonClicked(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FindMeAMovie_.HomeController.searchBarSearchButtonClicked (__ObjC.UISearchBar) -&gt; ()"
+                  moduleName = "FindMeAMovie_"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Shivam/Desktop/FindMeAMovie_/FindMeAMovie_/HomeController.swift"
+                  timestampString = "510351297.10329"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "182"
+                  endingLineNumber = "182"
+                  offsetFromSymbolStart = "291">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FindMeAMovie_.HomeController.(searchBarSearchButtonClicked (__ObjC.UISearchBar) -&gt; ()).(closure #1)"
+                  moduleName = "FindMeAMovie_"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Shivam/Desktop/FindMeAMovie_/FindMeAMovie_/HomeController.swift"
+                  timestampString = "510351297.106409"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "182"
+                  endingLineNumber = "182"
+                  offsetFromSymbolStart = "15">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FindMeAMovie_.HomeController.(searchBarSearchButtonClicked (__ObjC.UISearchBar) -&gt; ()).(closure #1).(closure #1)"
+                  moduleName = "FindMeAMovie_"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Shivam/Desktop/FindMeAMovie_/FindMeAMovie_/HomeController.swift"
+                  timestampString = "510351297.109645"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "182"
+                  endingLineNumber = "182"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FindMeAMovie_Tests.HomeController.searchBarSearchButtonClicked (__ObjC.UISearchBar) -&gt; ()"
+                  moduleName = "FindMeAMovie_Tests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Shivam/Desktop/FindMeAMovie_/FindMeAMovie_/HomeController.swift"
+                  timestampString = "510351299.163502"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "182"
+                  endingLineNumber = "182"
+                  offsetFromSymbolStart = "164">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FindMeAMovie_Tests.HomeController.searchBarSearchButtonClicked (__ObjC.UISearchBar) -&gt; ()"
+                  moduleName = "FindMeAMovie_Tests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Shivam/Desktop/FindMeAMovie_/FindMeAMovie_/HomeController.swift"
+                  timestampString = "510351299.167007"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "182"
+                  endingLineNumber = "182"
+                  offsetFromSymbolStart = "291">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FindMeAMovie_Tests.HomeController.(searchBarSearchButtonClicked (__ObjC.UISearchBar) -&gt; ()).(closure #1)"
+                  moduleName = "FindMeAMovie_Tests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Shivam/Desktop/FindMeAMovie_/FindMeAMovie_/HomeController.swift"
+                  timestampString = "510351299.171276"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "182"
+                  endingLineNumber = "182"
+                  offsetFromSymbolStart = "15">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FindMeAMovie_Tests.HomeController.(searchBarSearchButtonClicked (__ObjC.UISearchBar) -&gt; ()).(closure #1).(closure #1)"
+                  moduleName = "FindMeAMovie_Tests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Shivam/Desktop/FindMeAMovie_/FindMeAMovie_/HomeController.swift"
+                  timestampString = "510351299.17464"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "182"
+                  endingLineNumber = "182"
+                  offsetFromSymbolStart = "4">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FindMeAMovie_/HomeController.swift"
+            timestampString = "510349700.763626"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "184"
+            endingLineNumber = "184"
+            landmarkName = "searchBarSearchButtonClicked(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FindMeAMovie_.HomeController.(searchBarSearchButtonClicked (__ObjC.UISearchBar) -&gt; ()).(closure #1)"
+                  moduleName = "FindMeAMovie_"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Shivam/Desktop/FindMeAMovie_/FindMeAMovie_/HomeController.swift"
+                  timestampString = "510351297.119139"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "184"
+                  endingLineNumber = "184"
+                  offsetFromSymbolStart = "73">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FindMeAMovie_Tests.HomeController.(searchBarSearchButtonClicked (__ObjC.UISearchBar) -&gt; ()).(closure #1)"
+                  moduleName = "FindMeAMovie_Tests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Shivam/Desktop/FindMeAMovie_/FindMeAMovie_/HomeController.swift"
+                  timestampString = "510351299.17985"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "184"
+                  endingLineNumber = "184"
+                  offsetFromSymbolStart = "73">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FindMeAMovie_Tests.HomeController.(searchBarSearchButtonClicked (__ObjC.UISearchBar) -&gt; ()).(closure #1).(closure #1)"
+                  moduleName = "FindMeAMovie_Tests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Shivam/Desktop/FindMeAMovie_/FindMeAMovie_/HomeController.swift"
+                  timestampString = "510351299.182959"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "182"
+                  endingLineNumber = "182"
+                  offsetFromSymbolStart = "4">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FindMeAMovie_/HomeController.swift"
+            timestampString = "510349701.661481"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "185"
+            endingLineNumber = "185"
+            landmarkName = "searchBarSearchButtonClicked(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FindMeAMovie_.HomeController.(searchBarSearchButtonClicked (__ObjC.UISearchBar) -&gt; ()).(closure #1).(closure #1)"
+                  moduleName = "FindMeAMovie_"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Shivam/Desktop/FindMeAMovie_/FindMeAMovie_/HomeController.swift"
+                  timestampString = "510351297.128321"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "185"
+                  endingLineNumber = "185"
+                  offsetFromSymbolStart = "23">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FindMeAMovie_Tests.HomeController.(searchBarSearchButtonClicked (__ObjC.UISearchBar) -&gt; ()).(closure #1).(closure #1)"
+                  moduleName = "FindMeAMovie_Tests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Shivam/Desktop/FindMeAMovie_/FindMeAMovie_/HomeController.swift"
+                  timestampString = "510351299.187694"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "185"
+                  endingLineNumber = "185"
+                  offsetFromSymbolStart = "23">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FindMeAMovie_/HomeController.swift"
+            timestampString = "510349705.271646"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "275"
+            endingLineNumber = "275"
+            landmarkName = "setupUI(movie:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FindMeAMovie_.HomeController.(setupUI in _1A04DEE66F5565CDD4CD78B2E6C89C22) (movie : FindMeAMovie_.Movie) -&gt; ()"
+                  moduleName = "FindMeAMovie_"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Shivam/Desktop/FindMeAMovie_/FindMeAMovie_/HomeController.swift"
+                  timestampString = "510351297.133931"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "275"
+                  endingLineNumber = "275"
+                  offsetFromSymbolStart = "19">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FindMeAMovie_Tests.HomeController.(setupUI in _20A2992C3A73219E4A22E5EBA4C56EEC) (movie : FindMeAMovie_Tests.Movie) -&gt; ()"
+                  moduleName = "FindMeAMovie_Tests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Shivam/Desktop/FindMeAMovie_/FindMeAMovie_/HomeController.swift"
+                  timestampString = "510351299.192075"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "275"
+                  endingLineNumber = "275"
+                  offsetFromSymbolStart = "19">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FindMeAMovie_/HomeController.swift"
+            timestampString = "510349705.96165"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "278"
+            endingLineNumber = "278"
+            landmarkName = "setupUI(movie:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FindMeAMovie_.HomeController.(setupUI in _1A04DEE66F5565CDD4CD78B2E6C89C22) (movie : FindMeAMovie_.Movie) -&gt; ()"
+                  moduleName = "FindMeAMovie_"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Shivam/Desktop/FindMeAMovie_/FindMeAMovie_/HomeController.swift"
+                  timestampString = "510351297.13897"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "278"
+                  endingLineNumber = "278"
+                  offsetFromSymbolStart = "907">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FindMeAMovie_Tests.HomeController.(setupUI in _20A2992C3A73219E4A22E5EBA4C56EEC) (movie : FindMeAMovie_Tests.Movie) -&gt; ()"
+                  moduleName = "FindMeAMovie_Tests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Shivam/Desktop/FindMeAMovie_/FindMeAMovie_/HomeController.swift"
+                  timestampString = "510351299.196515"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "278"
+                  endingLineNumber = "278"
+                  offsetFromSymbolStart = "907">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FindMeAMovie_/HomeController.swift"
+            timestampString = "510349706.841615"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "281"
+            endingLineNumber = "281"
+            landmarkName = "setupUI(movie:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FindMeAMovie_.HomeController.(setupUI in _1A04DEE66F5565CDD4CD78B2E6C89C22) (movie : FindMeAMovie_.Movie) -&gt; ()"
+                  moduleName = "FindMeAMovie_"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Shivam/Desktop/FindMeAMovie_/FindMeAMovie_/HomeController.swift"
+                  timestampString = "510351297.144035"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "281"
+                  endingLineNumber = "281"
+                  offsetFromSymbolStart = "1747">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FindMeAMovie_Tests.HomeController.(setupUI in _20A2992C3A73219E4A22E5EBA4C56EEC) (movie : FindMeAMovie_Tests.Movie) -&gt; ()"
+                  moduleName = "FindMeAMovie_Tests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Shivam/Desktop/FindMeAMovie_/FindMeAMovie_/HomeController.swift"
+                  timestampString = "510351299.200859"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "281"
+                  endingLineNumber = "281"
+                  offsetFromSymbolStart = "1747">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FindMeAMovie_/HomeController.swift"
+            timestampString = "510349708.811548"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "288"
+            endingLineNumber = "288"
+            landmarkName = "setupUI(movie:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FindMeAMovie_.HomeController.(setupUI in _1A04DEE66F5565CDD4CD78B2E6C89C22) (movie : FindMeAMovie_.Movie) -&gt; ()"
+                  moduleName = "FindMeAMovie_"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Shivam/Desktop/FindMeAMovie_/FindMeAMovie_/HomeController.swift"
+                  timestampString = "510351297.149866"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "288"
+                  endingLineNumber = "288"
+                  offsetFromSymbolStart = "2785">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FindMeAMovie_Tests.HomeController.(setupUI in _20A2992C3A73219E4A22E5EBA4C56EEC) (movie : FindMeAMovie_Tests.Movie) -&gt; ()"
+                  moduleName = "FindMeAMovie_Tests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Shivam/Desktop/FindMeAMovie_/FindMeAMovie_/HomeController.swift"
+                  timestampString = "510351299.205153"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "288"
+                  endingLineNumber = "288"
+                  offsetFromSymbolStart = "2785">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FindMeAMovie_/HomeController.swift"
+            timestampString = "510349710.251633"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "284"
+            endingLineNumber = "284"
+            landmarkName = "setupUI(movie:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FindMeAMovie_.HomeController.((setupUI in _1A04DEE66F5565CDD4CD78B2E6C89C22) (movie : FindMeAMovie_.Movie) -&gt; ()).(closure #1)"
+                  moduleName = "FindMeAMovie_"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Shivam/Desktop/FindMeAMovie_/FindMeAMovie_/HomeController.swift"
+                  timestampString = "510351297.155082"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "284"
+                  endingLineNumber = "284"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FindMeAMovie_Tests.HomeController.((setupUI in _20A2992C3A73219E4A22E5EBA4C56EEC) (movie : FindMeAMovie_Tests.Movie) -&gt; ()).(closure #1)"
+                  moduleName = "FindMeAMovie_Tests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Shivam/Desktop/FindMeAMovie_/FindMeAMovie_/HomeController.swift"
+                  timestampString = "510351299.209632"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "284"
+                  endingLineNumber = "284"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FindMeAMovie_/HomeController.swift"
+            timestampString = "510349811.649681"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "192"
+            endingLineNumber = "192"
+            landmarkName = "searchBarSearchButtonClicked(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FindMeAMovie_.HomeController.searchBarSearchButtonClicked (__ObjC.UISearchBar) -&gt; ()"
+                  moduleName = "FindMeAMovie_"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Shivam/Desktop/FindMeAMovie_/FindMeAMovie_/HomeController.swift"
+                  timestampString = "510351297.160131"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "192"
+                  endingLineNumber = "192"
+                  offsetFromSymbolStart = "365">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FindMeAMovie_.HomeController.(searchBarSearchButtonClicked (__ObjC.UISearchBar) -&gt; ()).(closure #1)"
+                  moduleName = "FindMeAMovie_"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Shivam/Desktop/FindMeAMovie_/FindMeAMovie_/HomeController.swift"
+                  timestampString = "510351297.162997"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "192"
+                  endingLineNumber = "192"
+                  offsetFromSymbolStart = "768">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FindMeAMovie_Tests.HomeController.searchBarSearchButtonClicked (__ObjC.UISearchBar) -&gt; ()"
+                  moduleName = "FindMeAMovie_Tests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Shivam/Desktop/FindMeAMovie_/FindMeAMovie_/HomeController.swift"
+                  timestampString = "510351299.214005"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "192"
+                  endingLineNumber = "192"
+                  offsetFromSymbolStart = "365">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FindMeAMovie_Tests.HomeController.(searchBarSearchButtonClicked (__ObjC.UISearchBar) -&gt; ()).(closure #1)"
+                  moduleName = "FindMeAMovie_Tests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Shivam/Desktop/FindMeAMovie_/FindMeAMovie_/HomeController.swift"
+                  timestampString = "510351299.217078"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "192"
+                  endingLineNumber = "192"
+                  offsetFromSymbolStart = "768">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FindMeAMovie_/HomeController.swift"
+            timestampString = "510349812.513884"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "193"
+            endingLineNumber = "193"
+            landmarkName = "searchBarSearchButtonClicked(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FindMeAMovie_.HomeController.searchBarSearchButtonClicked (__ObjC.UISearchBar) -&gt; ()"
+                  moduleName = "FindMeAMovie_"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Shivam/Desktop/FindMeAMovie_/FindMeAMovie_/HomeController.swift"
+                  timestampString = "510351297.169318"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "193"
+                  endingLineNumber = "193"
+                  offsetFromSymbolStart = "406">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FindMeAMovie_Tests.HomeController.searchBarSearchButtonClicked (__ObjC.UISearchBar) -&gt; ()"
+                  moduleName = "FindMeAMovie_Tests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Shivam/Desktop/FindMeAMovie_/FindMeAMovie_/HomeController.swift"
+                  timestampString = "510351299.221853"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "193"
+                  endingLineNumber = "193"
+                  offsetFromSymbolStart = "406">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FindMeAMovie_/HomeController.swift"
+            timestampString = "510349813.409528"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "194"
+            endingLineNumber = "194"
+            landmarkName = "searchBarSearchButtonClicked(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FindMeAMovie_.HomeController.searchBarSearchButtonClicked (__ObjC.UISearchBar) -&gt; ()"
+                  moduleName = "FindMeAMovie_"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Shivam/Desktop/FindMeAMovie_/FindMeAMovie_/HomeController.swift"
+                  timestampString = "510351297.174638"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "194"
+                  endingLineNumber = "194"
+                  offsetFromSymbolStart = "425">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FindMeAMovie_Tests.HomeController.searchBarSearchButtonClicked (__ObjC.UISearchBar) -&gt; ()"
+                  moduleName = "FindMeAMovie_Tests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Shivam/Desktop/FindMeAMovie_/FindMeAMovie_/HomeController.swift"
+                  timestampString = "510351299.226179"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "194"
+                  endingLineNumber = "194"
+                  offsetFromSymbolStart = "425">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
